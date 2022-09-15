@@ -1,7 +1,7 @@
- >ERIK MAZZUCO
+ >Rafael Streda Paloschi
 - TCC/2022
 - 18y
-- Aquário
+- Peixes
 <div align="left">
   <a href="https://github.com/ErikMazzuco">
   <img height="250em" src="https://github-readme-stats.vercel.app/api?username=ErikMazzuco&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
